@@ -21,3 +21,5 @@
 // const job = "javaScript developer";
 //                                                    //interpolatsiya;
 // console.log(`user name is ${user} he is ${job}`);
+
+const msg = 'Ozgartirdim'
